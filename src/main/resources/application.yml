@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/amazon_test_task
+
+token:
+  signing:
+    key: aDJ/9K82URt5Qi3OaJgH1BrsD2izHj9eIzFVYIaX9XU=
